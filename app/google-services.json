@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040486201982",
+    "firebase_url": "https://shopping-list-b30df-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shopping-list-b30df",
+    "storage_bucket": "shopping-list-b30df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040486201982:android:961300c8b312914e35762f",
+        "android_client_info": {
+          "package_name": "mateusz.oleksik.smb_projekt_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040486201982-u03us2g8oq7boueht9gr8ki6c8tt1093.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6yIwb7d0vwBgmXCaEyXx8CQZm_7HXq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040486201982-u03us2g8oq7boueht9gr8ki6c8tt1093.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
